@@ -1,0 +1,14 @@
+.background {
+    background:url('images/pic2.jpg');
+    position: relative;
+}
+
+.layer {
+    background-color: rgba(114, 114, 114, 0.4);
+    padding: 50px;
+    border-radius: 25px;
+}
+
+.text {
+    color: rgb(0, 0, 0)
+}
